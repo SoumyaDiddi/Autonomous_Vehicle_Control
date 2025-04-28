@@ -15,8 +15,7 @@ This project demonstrates a **Robust Control System** for an autonomous vehicle.
 ## Files
 - `autonomous_vehicle_control.m` : Main MATLAB script for control system simulation
 - `vehicle_path.png` : Vehicle path plot
-- `position_error_vs_time.png` : Position error vs time plot
-- `velocity_error_vs_time.png` : Velocity error vs time plot
+- `position_error_vs_time & velocity_error_vs_time.png` : Position error vs time plot and  velocity_error_vs_time
 
 ## License
 This project is licensed under the MIT License.
